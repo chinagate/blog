@@ -76,7 +76,6 @@ Tails (操作系统) —— 目前没有MEEK可用
 <br>
 <br>
 ><b><p align="center">政治聊天室 —— 没有自我审查</p></b>
-<br>
-<br>
+
 [![Gitter](https://badges.gitter.im/chinapolitics/community.svg)](https://gitter.im/chinapolitics/community) | 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
