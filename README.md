@@ -16,7 +16,7 @@
 # 技术
 
 
-![alt text](https://raw.githubusercontent.com/torchina/get/master/meek-diagram.png)
+![alt text](https://raw.githubusercontent.com/mjstest/orgb1/1ef2f755a195eef11312653ac59a63f5/meek-diagram.png)
 
 
 <p align="right"><a href="https://torchina.gitlab.io/get/meek.html">英文文档</a></p>
@@ -33,13 +33,13 @@
 # 手动配置
 
 
-![alt text](https://raw.githubusercontent.com/torchina/get/master/config1.png)
+![alt text](https://raw.githubusercontent.com/mjstest/orgb1/a5b50a2a9f002c828e5f9437f4312e2e/config1.png)
 
 
-![alt text](https://raw.githubusercontent.com/torchina/get/master/config2.png)
+![alt text](https://raw.githubusercontent.com/mjstest/orgb1/7ed2b337bd0c74a9db3d66befdecd87e/config2.png)
 
 
-![alt text](https://raw.githubusercontent.com/torchina/get/master/config3.png)
+![alt text](https://raw.githubusercontent.com/mjstest/orgb1/59dcbecb86fed3242d2042a191fb529e/config3.png)
 
 
 <h3>Tor 浏览器 for Windows (64位)</h3><a href="https://github.com/torchina/get/releases/download/0/torbrowser-install-win64-8.0.8_zh-CN.exe">torbrowser-install-win64-8.0.8_zh-CN.exe</a><br>6D2654908E8D39B2EF4589C6CC7791614D63BD04A32AB288BCD59CC4C4E3799B - SHA-256</br>
@@ -76,5 +76,5 @@ Tails (操作系统) —— 目前没有MEEK可用
 
 
 
-[![Gitter](https://badges.gitter.im/torchina/community.svg)](https://gitter.im/torchina/community)
+[![Gitter](https://badges.gitter.im/chinapolitics/community.svg)](https://gitter.im/chinapolitics/community)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
