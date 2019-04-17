@@ -74,7 +74,7 @@ Tails (操作系统) —— 目前没有MEEK可用
 
 <a href="https://torchina.gitlab.io/get/tails.html">https://torchina.gitlab.io/get/tails.html</a>
 
-<b color="green"><p align="center">政治聊天室 —— 没有自我审查</p></b>
+><b><p align="center">政治聊天室 —— 没有自我审查</p></b>
 
 [![Gitter](https://badges.gitter.im/chinapolitics/community.svg)](https://gitter.im/chinapolitics/community) | 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
