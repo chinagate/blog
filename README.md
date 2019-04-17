@@ -16,7 +16,7 @@
 # 技术
 
 
-![alt text](https://raw.githubusercontent.com/mjstest/orgb1/1ef2f755a195eef11312653ac59a63f5/meek-diagram.png)
+![alt text](https://raw.githubusercontent.com/mjstest/orgb1/1ef2f755a195eef11312653ac59a63f5/meek-diagram.png?raw=true)
 
 
 <p align="right"><a href="https://torchina.gitlab.io/get/meek.html">英文文档</a></p>
