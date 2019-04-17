@@ -73,8 +73,7 @@
 Tails (操作系统) —— 目前没有MEEK可用
 
 <a href="https://torchina.gitlab.io/get/tails.html">https://torchina.gitlab.io/get/tails.html</a>
-<br>
-<br>
+
 ><b><p>政治聊天室 —— 没有自我审查</p></b>
 
 [![Gitter](https://badges.gitter.im/chinapolitics/community.svg)](https://gitter.im/chinapolitics/community) | 
