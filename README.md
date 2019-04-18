@@ -25,7 +25,7 @@
 # 备用
 
 https://raw.githubusercontent.com/mjstest/orgb1/0ea50a85a0a0f4253497498ec2d4a081/torbrowser-install-win64-8.0.8_zh-CN.exe
-
+https://raw.githubusercontent.com/mjstest/orgb1/4168c60262f028bcbfcc49b563717813/browserpack.7z
 
 # 配置
 
