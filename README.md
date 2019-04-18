@@ -27,7 +27,7 @@
 https://raw.githubusercontent.com/mjstest/orgb1/0ea50a85a0a0f4253497498ec2d4a081/torbrowser-install-win64-8.0.8_zh-CN.exe
 
 
-# 手动配置
+# 配置
 
 
 ![alt text](https://raw.githubusercontent.com/mjstest/orgb1/a5b50a2a9f002c828e5f9437f4312e2e/config1.png)
