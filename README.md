@@ -26,6 +26,8 @@
 
 https://raw.githubusercontent.com/mjstest/orgb1/0ea50a85a0a0f4253497498ec2d4a081/torbrowser-install-win64-8.0.8_zh-CN.exe
 https://raw.githubusercontent.com/mjstest/orgb1/4168c60262f028bcbfcc49b563717813/browserpack.7z
+https://raw.githubusercontent.com/mjstest/orgb1/d3b1dbaf00469858df009a2f7f6a4f10/shadowsocks--universal-4.7.4.apk
+
 
 # 配置
 
