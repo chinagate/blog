@@ -28,6 +28,7 @@ https://raw.githubusercontent.com/mjstest/orgb1/0ea50a85a0a0f4253497498ec2d4a081
 https://raw.githubusercontent.com/mjstest/orgb1/4168c60262f028bcbfcc49b563717813/browserpack.7z
 https://raw.githubusercontent.com/mjstest/orgb1/5c98ddb799c47f073a0e3ad8e693f7e1/Shadowsocks-4.1.6.zip
 https://raw.githubusercontent.com/mjstest/orgb1/d3b1dbaf00469858df009a2f7f6a4f10/shadowsocks--universal-4.7.4.apk
+<a href="https://github.com/shadowsocks/openwrt-shadowsocks/releases">openwrt-shadowsocks</a>
 https://raw.githubusercontent.com/mjstest/orgb1/24e26ba7d534acf2e5f57ea42d030b30/PsiphonAndroid.apk
 https://raw.githubusercontent.com/mjstest/orgb1/9d3d7e1217ac56467fe3c921fdc46289/psiphon3.exe
 
