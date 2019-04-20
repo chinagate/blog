@@ -67,9 +67,9 @@
 
 <a href="https://torchina.gitlab.io/get/zeronet.html">https://torchina.gitlab.io/get/zeronet.html</a>
 
-<kr>Fenghe's Blog</kr>
+<kr>VPS设置</kr>
 
-https://fenghe.us/bypass-gfw/
+https://github.com/Bill0412/bandwagonhost-tutorial
 
 Tails (操作系统) —— 目前没有MEEK可用
 
