@@ -47,7 +47,7 @@
 
 <h3>专家束 (32位)</h3><a href="https://raw.githubusercontent.com/mjstest/orgb1/3bd06cdf3e8af00a7eb5ca9f63cbccb7/tor-win32-0.3.5.8.zip">tor-win32-0.3.5.8.zip</a><br>2D0784621318005D7A9901AE2A88D49BB3865B33C9DD4BBC926D224FBB3379FA - SHA-256</br>
 
-<h3>Tor浏览器 | Linux (64位)</h3><a href="https://raw.githubusercontent.com/mjstest/orgb1/6215b4e3ed5e56c3f2a8930772a711a9/tor-browser-linux64-8.0.8_zh-CN.tar.xz">tor-browser-linux64-8.0.8_zh-CN.tar.xz</a><br>FA5E6E8D1DFE580A639463A2240286B110EB8F1684ADE467D2E8CA384746A70E - SHA-256</br>
+<h3>Tor浏览器 | Linux (64位)</h3><a href="https://bitbucket.org/chinagate/files/downloads/tor-browser-linux64-8.0.8_zh-CN.tar.xz">tor-browser-linux64-8.0.8_zh-CN.tar.xz</a><br>FA5E6E8D1DFE580A639463A2240286B110EB8F1684ADE467D2E8CA384746A70E - SHA-256</br>
 
 <h3>Tor浏览器 | Linux (32位)</h3><a href="https://raw.githubusercontent.com/mjstest/orgb1/9acc409e61c1e668ccb7cf2f5d0e68fd/tor-browser-linux32-8.0.8_zh-CN.tar.xz">tor-browser-linux32-8.0.8_zh-CN.tar.xz</a><br>39B116460CFFA5DC903BCC2F1AED9D0439CA6017BE3BFEF8EB83CB94359B72C0 - SHA-256</br>
 
