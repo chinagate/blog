@@ -53,7 +53,7 @@
 
 <h3>Tor浏览器 | Mac OS X (64位)</h3><a href="https://raw.githubusercontent.com/mjstest/orgb1/3466159e8d348b5301c747f0453fdd04/TorBrowser-8.0.8-osx64_zh-CN.dmg">TorBrowser-8.0.8-osx64_zh-CN.dmg</a><br>33E469F2CBBA823B58BD320CAA8DC806CD9A867B1BAFFF46FA8E4B01E2B9F657 - SHA-256</br>
 
-<h3>Tor浏览器 | Android</h3><a href="https://raw.githubusercontent.com/mjstest/orgb1/36dff1f87dfecd3c983f9aeed9c61f43/tor-browser-8.5a10-android-armv7-multi.apk">tor-browser-8.5a10-android-armv7-multi.apk</a><br>5F12A4445BDC4ED36E646DD331B48799277AE7B28FB192747A049B5A623C0E2A - SHA-256</br>
+<h3>Tor浏览器 | Android</h3><a href="https://bitbucket.org/chinagate/files/downloads/tor-browser-8.5a11-android-armv7-multi.apk">tor-browser-8.5a11-android-armv7-multi.apk</a><br>5F12A4445BDC4ED36E646DD331B48799277AE7B28FB192747A049B5A623C0E2A - SHA-256</br><a href="https://bitbucket.org/chinagate/files/downloads/tor-browser-8.5a11-android-x86-multi.apk">tor-browser-8.5a11-android-x86-multi.apk</a><br>5F12A4445BDC4ED36E646DD331B48799277AE7B28FB192747A049B5A623C0E2A - SHA-256</br>
 
 
 # 更多资源
