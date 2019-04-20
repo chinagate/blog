@@ -67,9 +67,9 @@
 
 <a href="https://torchina.gitlab.io/get/zeronet.html">https://torchina.gitlab.io/get/zeronet.html</a>
 
-<kr>VPS设置</kr>
+<a href="https://github.com/Bill0412/bandwagonhost-tutorial">bandwagonhost教程 -  vps设置</a>
 
-https://github.com/Bill0412/bandwagonhost-tutorial
+<a href="https://www.bandwagonhost.net">https://www.bandwagonhost.net</a>
 
 Tails (操作系统) —— 目前没有MEEK可用
 
