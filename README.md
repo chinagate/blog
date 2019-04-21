@@ -72,9 +72,9 @@
 
 <a href="https://www.bandwagonhost.net">https://www.bandwagonhost.net</a>
 
-<b>Streisand VPN</b>
+<a href="https://github.com/StreisandEffect/streisand"><b>Streisand VPN</b></a>
 
-<a href="https://github.com/StreisandEffect/streisand/blob/master/README-chs.md">https://github.com/StreisandEffect/streisand/blob/master/README-chs.md</a>
+<a href="https://github.com/StreisandEffect/streisand/blob/master/README-chs.md">README-chs.md —— 简体中文</a>
 
 Tails (操作系统) —— 目前没有MEEK可用
 
