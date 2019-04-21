@@ -64,23 +64,23 @@
 
 <a href="https://torchina.gitlab.io/get/greatfire.html">https://torchina.gitlab.io/get/greatfire.html</a>
 
-<b><a href="https://github.com/HelloZeroNet">ZeroNet</a> —— 需要MEEK代理</b>
+<b><a href="https://github.com/HelloZeroNet">ZeroNet</a> | 需要MEEK代理</b>
 
 <a href="https://torchina.gitlab.io/get/zeronet.html">https://torchina.gitlab.io/get/zeronet.html</a>
 
-<b><a href="https://github.com/Bill0412/bandwagonhost-tutorial">bandwagonhost教程 —— vps设置</a></b>
+<b><a href="https://github.com/Bill0412/bandwagonhost-tutorial">bandwagonhost教程 | vps设置</a></b>
 
 <a href="https://www.bandwagonhost.net">https://www.bandwagonhost.net</a>
 
 <b><a href="https://github.com/StreisandEffect/streisand">Streisand VPN</a></b>
 
-<a href="https://github.com/StreisandEffect/streisand/blob/master/README-chs.md">README-chs.md —— 简体中文</a>
+<a href="https://github.com/StreisandEffect/streisand/blob/master/README-chs.md">README-chs.md | 简体中文</a>
 
-<b>Tails 操作系统 —— 目前没有MEEK可用</b>
+<b>Tails —— 操作系统 | 目前没有MEEK可用</b>
 
 <a href="https://torchina.gitlab.io/get/tails.html">https://torchina.gitlab.io/get/tails.html</a>
 
-<b>政治聊天室 —— 没有自我审查</b>
+<b>政治聊天室 | 没有自我审查</b>
 
 [![Gitter](https://badges.gitter.im/chinapolitics/community.svg)](https://gitter.im/chinapolitics/community) | 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
