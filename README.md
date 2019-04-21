@@ -60,23 +60,23 @@
 # 更多资源
 
 
-<a href="https://github.com/greatfire">Greatfire</a>
+<b><a href="https://github.com/greatfire">Greatfire</a></b>
 
 <a href="https://torchina.gitlab.io/get/greatfire.html">https://torchina.gitlab.io/get/greatfire.html</a>
 
-<a href="https://github.com/HelloZeroNet">ZeroNet</a> —— 需要MEEK代理
+<b><a href="https://github.com/HelloZeroNet">ZeroNet</a> —— 需要MEEK代理</b>
 
 <a href="https://torchina.gitlab.io/get/zeronet.html">https://torchina.gitlab.io/get/zeronet.html</a>
 
-<a href="https://github.com/Bill0412/bandwagonhost-tutorial">bandwagonhost教程 —— vps设置</a>
+<b><a href="https://github.com/Bill0412/bandwagonhost-tutorial">bandwagonhost教程 —— vps设置</a></b>
 
 <a href="https://www.bandwagonhost.net">https://www.bandwagonhost.net</a>
 
-<a href="https://github.com/StreisandEffect/streisand"><b>Streisand VPN</b></a>
+<b><a href="https://github.com/StreisandEffect/streisand">Streisand VPN</a></b>
 
 <a href="https://github.com/StreisandEffect/streisand/blob/master/README-chs.md">README-chs.md —— 简体中文</a>
 
-Tails (操作系统) —— 目前没有MEEK可用
+<b>Tails (操作系统) —— 目前没有MEEK可用</b>
 
 <a href="https://torchina.gitlab.io/get/tails.html">https://torchina.gitlab.io/get/tails.html</a>
 
