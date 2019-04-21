@@ -64,11 +64,11 @@
 
 <a href="https://torchina.gitlab.io/get/greatfire.html">https://torchina.gitlab.io/get/greatfire.html</a>
 
-<b><a href="https://github.com/HelloZeroNet">ZeroNet</a> —— 需要MEEK代理</b>
+<b><a href="https://github.com/HelloZeroNet">ZeroNet</a></b> —— 需要MEEK代理
 
 <a href="https://torchina.gitlab.io/get/zeronet.html">https://torchina.gitlab.io/get/zeronet.html</a>
 
-<b><a href="https://github.com/Bill0412/bandwagonhost-tutorial">bandwagonhost教程 —— vps设置</a></b>
+<b><a href="https://github.com/Bill0412/bandwagonhost-tutorial">bandwagonhost教程</b> —— vps设置</a>
 
 <a href="https://www.bandwagonhost.net">https://www.bandwagonhost.net</a>
 
@@ -76,7 +76,7 @@
 
 <a href="https://github.com/StreisandEffect/streisand/blob/master/README-chs.md">README-chs.md —— 简体中文</a>
 
-<b>Tails (操作系统) —— 目前没有MEEK可用</b>
+<b>Tails (操作系统)</b> —— 目前没有MEEK可用
 
 <a href="https://torchina.gitlab.io/get/tails.html">https://torchina.gitlab.io/get/tails.html</a>
 
