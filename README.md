@@ -74,7 +74,7 @@
 
 <b>Streisand VPN</b>
 
-<a href="https://github.com/StreisandEffect/streisand/blob/master/README-chs.md"></a>
+<a href="https://github.com/StreisandEffect/streisand/blob/master/README-chs.md">https://github.com/StreisandEffect/streisand/blob/master/README-chs.md</a>
 
 Tails (操作系统) —— 目前没有MEEK可用
 
