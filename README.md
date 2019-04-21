@@ -76,7 +76,7 @@
 
 <a href="https://github.com/StreisandEffect/streisand/blob/master/README-chs.md">README-chs.md —— 简体中文</a>
 
-<b>Tails (操作系统) —— 目前没有MEEK可用</b>
+<b>Tails 操作系统 —— 目前没有MEEK可用</b>
 
 <a href="https://torchina.gitlab.io/get/tails.html">https://torchina.gitlab.io/get/tails.html</a>
 
