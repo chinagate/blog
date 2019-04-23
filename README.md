@@ -4,7 +4,7 @@
 
 <a href="https://torchina.gitlab.io/get/tor.html">https://torchina.gitlab.io/get/tor.html</a>
 
-<a href="https://tb-manual.torproject.org/zh-CN/about/">https://tb-manual.torproject.org/zh-CN/about/</a>
+<a href="https://tb-manual.torproject.org/zh-CN/about/">https://tb-manual.torproject.org/zh-CN/about/</a> | 防火墙
 
 <h3><a href="https://github.com/shadowsocks">影梭 | Shadowsocks</a></h3>
 
