@@ -4,6 +4,8 @@
 
 <a href="https://torchina.gitlab.io/get/tor.html">https://torchina.gitlab.io/get/tor.html</a>
 
+<a href="https://tb-manual.torproject.org/zh-CN/about/">https://tb-manual.torproject.org/zh-CN/about/</a>
+
 <h3><a href="https://github.com/shadowsocks">影梭 | Shadowsocks</a></h3>
 
 <a href="https://torchina.gitlab.io/get/shadowsocks.html">https://torchina.gitlab.io/get/shadowsocks.html</a>
