@@ -13,6 +13,8 @@
 <p>从图中可以看出，meek 跟 obfsproxy 的主要差异在于：meek server 并不是直接暴露出来的。换句话说，你本机【不需要】直接连接 meek server，而是直接连接云计算平台的服务器（图中的“Frontend Server”）。
  如此一来，即便 GFW 知道 meek server 的 IP，并且封杀这些 IP，也【没有】意义。而云计算平台的 IP，GFW 又不敢封杀。这就是 meek 插件可以突破 GFW 的关键所在。</p>
 
+# 其他规避软件
+
 <p align="right"><a href="https://torchina.gitlab.io/get/meek.html">英文文档</a></p>
 
 <h3><a href="https://github.com/shadowsocks">影梭 | Shadowsocks</a></h3>
