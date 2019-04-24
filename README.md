@@ -17,7 +17,7 @@
 
 # 技术
 
-<p>下面这张是 meek 的示意图:</p>
+<h3>下面这张是 meek 的示意图:</h3>
 
 ![alt text](https://raw.githubusercontent.com/mjstest/orgb1/1ef2f755a195eef11312653ac59a63f5/meek-diagram.png?raw=true)
 
