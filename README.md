@@ -15,7 +15,6 @@
 
 <p align="right"><a href="https://torchina.gitlab.io/get/meek.html">英文文档</a></p>
 
-
 <h3><a href="https://github.com/shadowsocks">影梭 | Shadowsocks</a></h3>
 
 <a href="https://torchina.gitlab.io/get/shadowsocks.html">https://torchina.gitlab.io/get/shadowsocks.html</a>
@@ -23,10 +22,6 @@
 <h3><a href="https://github.com/Psiphon-Labs">赛风 | Psiphon</a></h3>
 
 <a href="https://torchina.gitlab.io/get/psiphon.html">https://torchina.gitlab.io/get/psiphon.html</a>
-
-
-# 技术
-
 
 # 备用
 
