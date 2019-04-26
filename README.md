@@ -89,6 +89,12 @@
 
 <a href="https://vpnac.net/">VPN.AC</a>
 
+<h3><a href="https://github.com/jedisct1/dnscrypt-proxy">dnscrypt-proxy 2</a></h3>
+
+<b>Windows GUI</b>
+
+<a href="https://simplednscrypt.org">Simple DNSCrypt</a>
+
 <b>政治聊天室 —— 没有自我审查</b>
 
 [![Gitter](https://badges.gitter.im/chinapolitics/community.svg)](https://gitter.im/chinapolitics/community) | 
