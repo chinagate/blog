@@ -28,9 +28,8 @@
 ![alt text](https://raw.githubusercontent.com/mjstest/orgb1/59dcbecb86fed3242d2042a191fb529e/config3.png)
 
 <br>
-<i><p align="right">SHA256 CHECKSUMS</p></i>
 
-## Tor浏览器下载包含SHA256 CHECKSUMS
+## 使用SHA256校验和下载Tor浏览器
 
 ### Tor浏览器 | Windows
 
