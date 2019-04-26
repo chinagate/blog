@@ -69,7 +69,7 @@
 
 <a href="https://torchina.gitlab.io/get/psiphon.html">https://torchina.gitlab.io/get/psiphon.html</a>
 
-<p align="right"><b>防火墙 | 高质量的VPN服务</b>
+<p align="right"><b>高质量的VPN服务 | 防火墙</b>
 <p align="right"><i><a href="https://www.expressvpn.com/">ExpressVPN</a></i> &middot; <i><a href="https://vpnac.net/">VPN.AC</a></i></p>
 
 # 更多资源
