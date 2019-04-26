@@ -42,8 +42,15 @@
 
 <h3>Tor浏览器 | Mac OS X (64位)</h3><a href="https://raw.githubusercontent.com/mjstest/orgb1/3466159e8d348b5301c747f0453fdd04/TorBrowser-8.0.8-osx64_zh-CN.dmg">TorBrowser-8.0.8-osx64_zh-CN.dmg</a><br>33E469F2CBBA823B58BD320CAA8DC806CD9A867B1BAFFF46FA8E4B01E2B9F657 - SHA-256</br>
 
-<h3>Tor浏览器 | Android</h3><a href="https://bitbucket.org/chinagate/files/downloads/tor-browser-8.5a11-android-armv7-multi.apk">tor-browser-8.5a11-android-armv7-multi.apk</a><br>3B1E69233CF4DAFC36CF3D85B094B8582A4D197228C937E102483BB3F3AF75BB - SHA-256</br><a href="https://bitbucket.org/chinagate/files/downloads/tor-browser-8.5a11-android-x86-multi.apk">tor-browser-8.5a11-android-x86-multi.apk</a><br>03E58CBC0EF6B3DA0A1C9577F7D956A6568B31585406061EA8AB15794BBE9BAE - SHA-256</br>
-<h3>Onion浏览器 | iOS</h3><a href="https://github.com/OnionBrowser/OnionBrowser">https://github.com/OnionBrowser/OnionBrowser</a><br>
+<h3>Tor浏览器 | Android</h3>
+
+<a href="https://bitbucket.org/chinagate/files/downloads/tor-browser-8.5a11-android-armv7-multi.apk">tor-browser-8.5a11-android-armv7-multi.apk</a><br>3B1E69233CF4DAFC36CF3D85B094B8582A4D197228C937E102483BB3F3AF75BB - SHA-256</br>
+
+<a href="https://bitbucket.org/chinagate/files/downloads/tor-browser-8.5a11-android-x86-multi.apk">tor-browser-8.5a11-android-x86-multi.apk</a><br>03E58CBC0EF6B3DA0A1C9577F7D956A6568B31585406061EA8AB15794BBE9BAE - SHA-256</br>
+
+<h3>Onion浏览器 | iOS</h3>
+
+<a href="https://github.com/OnionBrowser/OnionBrowser">https://github.com/OnionBrowser/OnionBrowser</a><br>
 
 # 其他规避软件
 
