@@ -30,7 +30,7 @@
 <br>
 <i><p align="right">SHA256 CHECKSUMS</p></i>
 
-##Tor浏览器下载包含SHA256 CHECKSUMS##<i><p align="right">SHA256 CHECKSUMS</p></i>
+## Tor浏览器下载包含SHA256 CHECKSUMS<i><p align="right">SHA256 CHECKSUMS</p></i>
 
 <h3>Tor浏览器 | Windows</h3>
 
