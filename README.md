@@ -1,12 +1,12 @@
 # 文件
 
-<h3>什么是<a href="https://github.com/TheTorProject">Tor</a>？</h3>
+## 什么是<a href="https://github.com/TheTorProject">Tor</a>？
 
 <a href="https://torchina.gitlab.io/get/tor.html">https://torchina.gitlab.io/get/tor.html</a>
 
 <a href="https://tb-manual.torproject.org/zh-CN/about/">https://tb-manual.torproject.org/zh-CN/about/</a> | 防火墙
 
-<h3>下面这张是 meek 的示意图:</h3>
+## 下面这张是 meek 的示意图:
 
 ![alt text](https://raw.githubusercontent.com/mjstest/orgb1/1ef2f755a195eef11312653ac59a63f5/meek-diagram.png?raw=true)
 
@@ -15,7 +15,7 @@
 
 <p align="right"><a href="https://torchina.gitlab.io/get/meek.html">英文文档</a></p>
 
-## 使用SHA256校验和下载Tor浏览器
+# 使用SHA256校验和下载Tor浏览器
 
 ### Windows
 
@@ -74,7 +74,7 @@
 
 # 更多资源
 
-<h3><a href="https://github.com/jedisct1/dnscrypt-proxy">dnscrypt-proxy 2</a></h3>
+### <a href="https://github.com/jedisct1/dnscrypt-proxy">dnscrypt-proxy 2</a>
 
 <b>Windows</b> —— <a href="https://simplednscrypt.org">Simple DNSCrypt</a>
 
