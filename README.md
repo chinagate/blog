@@ -1,4 +1,4 @@
-# 文件
+## 文件
 
 ## 什么是<a href="https://github.com/TheTorProject">Tor</a>？
 
@@ -6,7 +6,7 @@
 
 <a href="https://tb-manual.torproject.org/zh-CN/about/">https://tb-manual.torproject.org/zh-CN/about/</a> | 防火墙
 
-## 下面这张是 meek 的示意图:
+### 下面这张是 meek 的示意图:
 
 ![alt text](https://raw.githubusercontent.com/mjstest/orgb1/1ef2f755a195eef11312653ac59a63f5/meek-diagram.png?raw=true)
 
@@ -15,7 +15,7 @@
 
 <p align="right"><a href="https://torchina.gitlab.io/get/meek.html">英文文档</a></p>
 
-# 使用SHA256校验和下载Tor浏览器
+## 使用SHA256校验和下载Tor浏览器
 
 ### Windows
 
@@ -49,7 +49,7 @@
 
 <a href="https://github.com/OnionBrowser/OnionBrowser">https://github.com/OnionBrowser/OnionBrowser</a><br>
 
-# 配置
+## 配置
 
 ![alt text](https://raw.githubusercontent.com/mjstest/orgb1/a5b50a2a9f002c828e5f9437f4312e2e/config1.png)
 <br>
@@ -59,7 +59,7 @@
 <br>
 ![alt text](https://raw.githubusercontent.com/mjstest/orgb1/59dcbecb86fed3242d2042a191fb529e/config3.png)
 
-# 其他规避软件
+## 其他规避软件
 
 <h3><a href="https://github.com/shadowsocks">影梭 | Shadowsocks</a></h3>
 
@@ -72,7 +72,7 @@
 <p align="right"><b>高质量的VPN服务 | 防火墙</b>
 <p align="right"><i><a href="https://www.expressvpn.com/">ExpressVPN</a></i> &middot; <i><a href="https://vpnac.net/">VPN.AC</a></i></p>
 
-# 更多资源
+## 更多资源
 
 ### <a href="https://github.com/jedisct1/dnscrypt-proxy">dnscrypt-proxy 2</a>
 
@@ -103,6 +103,6 @@
 [![Gitter](https://badges.gitter.im/chinapolitics/community.svg)](https://gitter.im/chinapolitics/community) | 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
-# 备用
+## 备用
 
 <a href="https://raw.githubusercontent.com/mjstest/orgb1/0ea50a85a0a0f4253497498ec2d4a081/torbrowser-install-win64-8.0.8_zh-CN.exe">torbrowser-install-win64-8.0.8_zh-CN.exe</a> —— <a href="https://raw.githubusercontent.com/mjstest/orgb2/1fafade2a2cb44fb9918705d5a1cd352/browser.zip">browser.zip</a> —— <a href="https://raw.githubusercontent.com/mjstest/orgb1/5c98ddb799c47f073a0e3ad8e693f7e1/Shadowsocks-4.1.6.zip">Shadowsocks-4.1.6.zip</a> —— <a href="https://raw.githubusercontent.com/mjstest/orgb1/d3b1dbaf00469858df009a2f7f6a4f10/shadowsocks--universal-4.7.4.apk">shadowsocks--universal-4.7.4.apk</a> —— <a href="https://github.com/shadowsocks/openwrt-shadowsocks/releases">openwrt-shadowsocks</a> —— <a href="https://raw.githubusercontent.com/mjstest/orgb1/24e26ba7d534acf2e5f57ea42d030b30/PsiphonAndroid.apk">PsiphonAndroid.apk</a> —— <a href="https://raw.githubusercontent.com/mjstest/orgb1/9d3d7e1217ac56467fe3c921fdc46289/psiphon3.exe">psiphon3.exe</a> —— <a href="https://raw.githubusercontent.com/mjstest/orgb1/7d2320c9b2ca6716a8fbe765b524df19/Outline.ipa">Outline.ipa</a> —— <a href="https://raw.githubusercontent.com/mjstest/orgb1/0c18f6ae13e9e1b19dc59cfb67230256/Outline-Client.exe">Outline-Client.exe</a> —— <a href="https://raw.githubusercontent.com/mjstest/orgb2/24cd07219c3f3359a7d6d848d53b84cc/android-v1.2.10.apk">android-v1.2.10.apk</a> —— <a href="https://raw.githubusercontent.com/mjstest/orgb2/0353128dc41d2c0ae441cf019c8e0c4a/shadowsocks--universal-4.7.4.apk">shadowsocks--universal-4.7.4.apk</a> —— <a href="https://raw.githubusercontent.com/mjstest/orgb2/1274e9f2725c3b82826b89475801c09a/SimpleDNSCrypt64.msi">SimpleDNSCrypt64.msi</a>
