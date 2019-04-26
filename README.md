@@ -68,9 +68,7 @@
 
 <b>高质量的VPN服务 | 防火墙</b>
 
-<a href="https://www.expressvpn.com/">ExpressVPN</a>
-
-<a href="https://vpnac.net/">VPN.AC</a>
+<a href="https://www.expressvpn.com/">ExpressVPN</a> | <a href="https://vpnac.net/">VPN.AC</a>
 
 <b><a href="https://github.com/greatfire">Greatfire</a></b>
 
