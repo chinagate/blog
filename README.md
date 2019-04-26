@@ -4,7 +4,7 @@
 
 <a href="https://torchina.gitlab.io/get/tor.html">https://torchina.gitlab.io/get/tor.html</a>
 
-<a href="https://tb-manual.torproject.org/zh-CN/about/">https://tb-manual.torproject.org/zh-CN/about/</a> | 防火墙
+<a href="https://tb-manual.torproject.org/zh-CN/about/">https://tb-manual.torproject.org/zh-CN/about/</a><b> | 防火墙</b>
 
 ## 下面这张是 meek 的示意图:
 
