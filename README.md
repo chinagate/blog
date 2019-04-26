@@ -27,7 +27,7 @@
 
 ![alt text](https://raw.githubusercontent.com/mjstest/orgb1/59dcbecb86fed3242d2042a191fb529e/config3.png)
 
-
+<br>
 <i><p align="right">SHA256 CHECKSUMS</p></i>
 
 <h3>Tor浏览器 | Windows</h3>
