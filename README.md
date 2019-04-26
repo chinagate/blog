@@ -34,13 +34,17 @@
 
 <a href="https://bitbucket.org/chinagate/files/downloads/torbrowser-install-8.0.8_zh-CN.exe">torbrowser-install-8.0.8_zh-CN.exe</a><br>A136C60F66F2E5936A47E9D01164273FFDE2E96B4F95A17180748AAA3E0406DC - SHA-256</br>
 
-<h3>专家束 (64&32位)</h3><a href="https://raw.githubusercontent.com/mjstest/orgb1/e763ff0dc89b5515908bc853b2354591/tor-win64-0.3.5.8.zip">tor-win64-0.3.5.8.zip</a><br>2505DDF72C5C601ECA5117F5A77B3A2F27A652EEB77991B795F927D7BB1A654C - SHA-256</br>
-<br>
+<h3>专家束 (64&32位)</h3>
+
+<a href="https://raw.githubusercontent.com/mjstest/orgb1/e763ff0dc89b5515908bc853b2354591/tor-win64-0.3.5.8.zip">tor-win64-0.3.5.8.zip</a><br>2505DDF72C5C601ECA5117F5A77B3A2F27A652EEB77991B795F927D7BB1A654C - SHA-256</br>
+
 <a href="https://raw.githubusercontent.com/mjstest/orgb1/3bd06cdf3e8af00a7eb5ca9f63cbccb7/tor-win32-0.3.5.8.zip">tor-win32-0.3.5.8.zip</a><br>2D0784621318005D7A9901AE2A88D49BB3865B33C9DD4BBC926D224FBB3379FA - SHA-256</br>
 
-<h3>Tor浏览器 | Linux (64位)</h3><a href="https://bitbucket.org/chinagate/files/downloads/tor-browser-linux64-8.0.8_zh-CN.tar.xz">tor-browser-linux64-8.0.8_zh-CN.tar.xz</a><br>FA5E6E8D1DFE580A639463A2240286B110EB8F1684ADE467D2E8CA384746A70E - SHA-256</br>
+<h3>Tor浏览器 | Linux (64位)</h3>
 
-<h3>Tor浏览器 | Linux (32位)</h3><a href="https://raw.githubusercontent.com/mjstest/orgb1/9acc409e61c1e668ccb7cf2f5d0e68fd/tor-browser-linux32-8.0.8_zh-CN.tar.xz">tor-browser-linux32-8.0.8_zh-CN.tar.xz</a><br>39B116460CFFA5DC903BCC2F1AED9D0439CA6017BE3BFEF8EB83CB94359B72C0 - SHA-256</br>
+<a href="https://bitbucket.org/chinagate/files/downloads/tor-browser-linux64-8.0.8_zh-CN.tar.xz">tor-browser-linux64-8.0.8_zh-CN.tar.xz</a> 64位<br>FA5E6E8D1DFE580A639463A2240286B110EB8F1684ADE467D2E8CA384746A70E - SHA-256</br>
+
+<a href="https://raw.githubusercontent.com/mjstest/orgb1/9acc409e61c1e668ccb7cf2f5d0e68fd/tor-browser-linux32-8.0.8_zh-CN.tar.xz">tor-browser-linux32-8.0.8_zh-CN.tar.xz</a><br>39B116460CFFA5DC903BCC2F1AED9D0439CA6017BE3BFEF8EB83CB94359B72C0 - SHA-256</br>
 
 <h3>Tor浏览器 | Mac OS X (64位)</h3><a href="https://raw.githubusercontent.com/mjstest/orgb1/3466159e8d348b5301c747f0453fdd04/TorBrowser-8.0.8-osx64_zh-CN.dmg">TorBrowser-8.0.8-osx64_zh-CN.dmg</a><br>33E469F2CBBA823B58BD320CAA8DC806CD9A867B1BAFFF46FA8E4B01E2B9F657 - SHA-256</br>
 
