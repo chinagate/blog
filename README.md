@@ -28,9 +28,9 @@
 ![alt text](https://raw.githubusercontent.com/mjstest/orgb1/59dcbecb86fed3242d2042a191fb529e/config3.png)
 
 
-<h3>Tor浏览器 | Windows (64位)</h3><a href="https://bitbucket.org/chinagate/files/downloads/torbrowser-install-win64-8.0.8_zh-CN.exe">torbrowser-install-win64-8.0.8_zh-CN.exe</a><br>6D2654908E8D39B2EF4589C6CC7791614D63BD04A32AB288BCD59CC4C4E3799B - SHA-256</br>
-
-<h3>Tor浏览器 | Windows (32位)</h3><a href="https://bitbucket.org/chinagate/files/downloads/torbrowser-install-8.0.8_zh-CN.exe">torbrowser-install-8.0.8_zh-CN.exe</a><br>A136C60F66F2E5936A47E9D01164273FFDE2E96B4F95A17180748AAA3E0406DC - SHA-256</br>
+<h3>Tor浏览器 | Windows (64&32位)</h3>
+<a href="https://bitbucket.org/chinagate/files/downloads/torbrowser-install-win64-8.0.8_zh-CN.exe">torbrowser-install-win64-8.0.8_zh-CN.exe</a><br>6D2654908E8D39B2EF4589C6CC7791614D63BD04A32AB288BCD59CC4C4E3799B - SHA-256</br>
+<a href="https://bitbucket.org/chinagate/files/downloads/torbrowser-install-8.0.8_zh-CN.exe">torbrowser-install-8.0.8_zh-CN.exe</a><br>A136C60F66F2E5936A47E9D01164273FFDE2E96B4F95A17180748AAA3E0406DC - SHA-256</br>
 
 <h3>专家束 (64位)</h3><a href="https://raw.githubusercontent.com/mjstest/orgb1/e763ff0dc89b5515908bc853b2354591/tor-win64-0.3.5.8.zip">tor-win64-0.3.5.8.zip</a><br>2505DDF72C5C601ECA5117F5A77B3A2F27A652EEB77991B795F927D7BB1A654C - SHA-256</br>
 
