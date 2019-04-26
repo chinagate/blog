@@ -70,7 +70,7 @@
 
 <h3><a href="https://github.com/jedisct1/dnscrypt-proxy">dnscrypt-proxy 2</a></h3>
 
-<b>Windows</b> | <a href="https://simplednscrypt.org">Simple DNSCrypt</a>
+<b>Windows</b> —— <a href="https://simplednscrypt.org">Simple DNSCrypt</a>
 
 <b>高质量的VPN服务 | 防火墙</b>
 
