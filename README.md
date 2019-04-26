@@ -62,6 +62,15 @@
 
 # 更多资源
 
+<h3><a href="https://github.com/jedisct1/dnscrypt-proxy">dnscrypt-proxy 2</a></h3>
+
+<b>Windows</b> | <a href="https://simplednscrypt.org">Simple DNSCrypt</a>
+
+<b>高质量的VPN服务 | 防火墙</b>
+
+<a href="https://www.expressvpn.com/">ExpressVPN</a>
+
+<a href="https://vpnac.net/">VPN.AC</a>
 
 <b><a href="https://github.com/greatfire">Greatfire</a></b>
 
@@ -82,18 +91,6 @@
 <b>Tails | 操作系统 —— 目前没有MEEK可用</b>
 
 <a href="https://torchina.gitlab.io/get/tails.html">https://torchina.gitlab.io/get/tails.html</a>
-
-<b>高质量的VPN服务 | 防火墙</b>
-
-<a href="https://www.expressvpn.com/">ExpressVPN</a>
-
-<a href="https://vpnac.net/">VPN.AC</a>
-
-<h3><a href="https://github.com/jedisct1/dnscrypt-proxy">dnscrypt-proxy 2</a></h3>
-
-<b>Windows GUI</b>
-
-<a href="https://simplednscrypt.org">Simple DNSCrypt</a>
 
 <b>政治聊天室 —— 没有自我审查</b>
 
