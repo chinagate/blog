@@ -71,13 +71,11 @@
 
 # 更多资源
 
+<p align="right"><b>高质量的VPN服务 | 防火墙</b><a href="https://www.expressvpn.com/">ExpressVPN</a> | <a href="https://vpnac.net/">VPN.AC</a></p>
+
 <h3><a href="https://github.com/jedisct1/dnscrypt-proxy">dnscrypt-proxy 2</a></h3>
 
 <b>Windows</b> —— <a href="https://simplednscrypt.org">Simple DNSCrypt</a>
-
-<b>高质量的VPN服务 | 防火墙</b>
-
-<a href="https://www.expressvpn.com/">ExpressVPN</a> | <a href="https://vpnac.net/">VPN.AC</a>
 
 <b><a href="https://github.com/greatfire">Greatfire</a></b>
 
