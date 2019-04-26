@@ -27,9 +27,7 @@
 
 ![alt text](https://raw.githubusercontent.com/mjstest/orgb1/59dcbecb86fed3242d2042a191fb529e/config3.png)
 
-<i><p align="right">SHA256 CHECKSUMS</p></i>
-
-<h3>Tor浏览器 | Windows</h3>
+<h3>Tor浏览器 | Windows</h3><i><p align="right">SHA256 CHECKSUMS</p></i>
 
 <a href="https://bitbucket.org/chinagate/files/downloads/torbrowser-install-win64-8.0.8_zh-CN.exe">torbrowser-install-win64-8.0.8_zh-CN.exe</a> &middot; (64位)<br>6D2654908E8D39B2EF4589C6CC7791614D63BD04A32AB288BCD59CC4C4E3799B</br>
 
@@ -49,7 +47,7 @@
 
 <h3>Tor浏览器 | Mac OS X</h3>
 
-<a href="https://raw.githubusercontent.com/mjstest/orgb1/3466159e8d348b5301c747f0453fdd04/TorBrowser-8.0.8-osx64_zh-CN.dmg">TorBrowser-8.0.8-osx64_zh-CN.dmg</a> &middot; <br>33E469F2CBBA823B58BD320CAA8DC806CD9A867B1BAFFF46FA8E4B01E2B9F657</br>
+<a href="https://raw.githubusercontent.com/mjstest/orgb1/3466159e8d348b5301c747f0453fdd04/TorBrowser-8.0.8-osx64_zh-CN.dmg">TorBrowser-8.0.8-osx64_zh-CN.dmg</a> &middot; (64位)<br>33E469F2CBBA823B58BD320CAA8DC806CD9A867B1BAFFF46FA8E4B01E2B9F657</br>
 
 <h3>Tor浏览器 | Android</h3>
 
