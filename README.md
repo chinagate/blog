@@ -86,7 +86,7 @@
 
 #### <a href="https://github.com/WireGuard/WireGuard">WireGuard</a>
 
-<a href="https://git.zx2c4.com"Official repository></a>
+<a href="https://git.zx2c4.com">Official repository</a>
 
 <a href="https://www.wireguard.com">www.wireguard.com</a>
 
