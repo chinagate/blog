@@ -71,11 +71,11 @@
 
 ## VPS设置和VPN服务
 
-<b><a href="https://github.com/Bill0412/bandwagonhost-tutorial">bandwagonhost教程 | vps设置</a></b>
+### <a href="https://github.com/Bill0412/bandwagonhost-tutorial">bandwagonhost教程 | vps设置</a>
 
 <a href="https://www.bandwagonhost.net">https://www.bandwagonhost.net</a>
 
-<b><a href="https://github.com/StreisandEffect/streisand">Streisand VPN</a></b>
+### <a href="https://github.com/StreisandEffect/streisand">Streisand VPN</a>
 
 <a href="https://github.com/StreisandEffect/streisand/blob/master/README-chs.md">README-chs.md | 简体中文</a>
 
@@ -84,9 +84,9 @@
 
 ## 更多资源
 
-#### <a href="https://www.wireguard.com">WireGuard</a>
+### <a href="https://www.wireguard.com">WireGuard</a>
 
-#### <a href="https://github.com/jedisct1/dnscrypt-proxy">dnscrypt-proxy 2</a>
+### <a href="https://github.com/jedisct1/dnscrypt-proxy">dnscrypt-proxy 2</a>
 
 <b>Windows</b> —— <a href="https://simplednscrypt.org">Simple DNSCrypt</a>
 
