@@ -84,21 +84,21 @@
 
 ## 更多资源
 
-### <b><a href="https://www.wireguard.com">WireGuard</a></b>
+### <a href="https://www.wireguard.com">WireGuard</a>
 
-<b><a href="https://github.com/jedisct1/dnscrypt-proxy">dnscrypt-proxy 2</a></b>
+### <a href="https://github.com/jedisct1/dnscrypt-proxy">dnscrypt-proxy 2</a>
 
 <b>Windows</b> —— <a href="https://simplednscrypt.org">Simple DNSCrypt</a>
 
-<b><a href="https://github.com/greatfire">Greatfire</a></b>
+### <a href="https://github.com/greatfire">Greatfire</a>
 
 <a href="https://torchina.gitlab.io/get/greatfire.html">https://torchina.gitlab.io/get/greatfire.html</a>
 
-<b><a href="https://github.com/HelloZeroNet">ZeroNet</a> —— 需要MEEK代理</b>
+### <a href="https://github.com/HelloZeroNet">ZeroNet</a> —— 需要MEEK代理
 
 <a href="https://torchina.gitlab.io/get/zeronet.html">https://torchina.gitlab.io/get/zeronet.html</a>
 
-<b>Tails | 操作系统 —— 目前没有MEEK可用</b>
+### Tails | 操作系统 —— 目前没有MEEK可用
 
 <a href="https://torchina.gitlab.io/get/tails.html">https://torchina.gitlab.io/get/tails.html</a>
 
