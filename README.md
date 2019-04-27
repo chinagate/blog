@@ -69,6 +69,14 @@
 
 <a href="https://torchina.gitlab.io/get/psiphon.html">https://torchina.gitlab.io/get/psiphon.html</a>
 
+<b><a href="https://github.com/Bill0412/bandwagonhost-tutorial">bandwagonhost教程 | vps设置</a></b>
+
+<a href="https://www.bandwagonhost.net">https://www.bandwagonhost.net</a>
+
+<b><a href="https://github.com/StreisandEffect/streisand">Streisand VPN</a></b>
+
+<a href="https://github.com/StreisandEffect/streisand/blob/master/README-chs.md">README-chs.md | 简体中文</a>
+
 <p align="right"><b>高质量的VPN服务</b> | 防火墙
 <p align="right"><i><a href="https://www.expressvpn.com/">ExpressVPN</a></i> &middot; <i><a href="https://vpnac.net/">VPN.AC</a></i></p>
 
@@ -85,14 +93,6 @@
 <b><a href="https://github.com/HelloZeroNet">ZeroNet</a> —— 需要MEEK代理</b>
 
 <a href="https://torchina.gitlab.io/get/zeronet.html">https://torchina.gitlab.io/get/zeronet.html</a>
-
-<b><a href="https://github.com/Bill0412/bandwagonhost-tutorial">bandwagonhost教程 | vps设置</a></b>
-
-<a href="https://www.bandwagonhost.net">https://www.bandwagonhost.net</a>
-
-<b><a href="https://github.com/StreisandEffect/streisand">Streisand VPN</a></b>
-
-<a href="https://github.com/StreisandEffect/streisand/blob/master/README-chs.md">README-chs.md | 简体中文</a>
 
 <b>Tails | 操作系统 —— 目前没有MEEK可用</b>
 
