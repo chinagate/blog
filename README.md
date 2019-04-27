@@ -84,6 +84,8 @@
 
 ## 更多资源
 
+<b><a href="https://www.wireguard.com">WireGuard</a></b>
+
 <b><a href="https://github.com/jedisct1/dnscrypt-proxy">dnscrypt-proxy 2</a></b>
 
 <b>Windows</b> —— <a href="https://simplednscrypt.org">Simple DNSCrypt</a>
