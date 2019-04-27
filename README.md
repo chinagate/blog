@@ -73,6 +73,8 @@
 
 #### <a href="https://github.com/Bill0412/bandwagonhost-tutorial">bandwagonhost教程 | vps设置</a>
 
+<a href="https://invidio.us/search?q=bandwagonhost">https://invidio.us/search?q=bandwagonhost</a>
+
 <a href="https://www.bandwagonhost.net">https://www.bandwagonhost.net</a>
 
 #### <a href="https://github.com/StreisandEffect/streisand">Streisand VPN</a>
