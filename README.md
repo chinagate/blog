@@ -15,7 +15,7 @@
 
 <p align="right"><a href="https://torchina.gitlab.io/get/meek.html">英文文档</a></p>
 
-## 使用SHA256校验和下载Tor浏览器
+## 使用<a href="https://raw.githubusercontent.com/mjstest/orgb2/3734f15fb2f2e54671656f2b2e838bb9/sha256sums-signed-build.txt">SHA256校验和</a>下载Tor浏览器
 
 ### Windows
 
