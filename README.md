@@ -61,11 +61,11 @@
 
 ## 其他审查规避软件
 
-<h3><a href="https://github.com/shadowsocks">影梭 | Shadowsocks</a></h3>
+### <a href="https://github.com/shadowsocks">影梭 | Shadowsocks</a>
 
 <a href="https://torchina.gitlab.io/get/shadowsocks.html">https://torchina.gitlab.io/get/shadowsocks.html</a>
 
-<h3><a href="https://github.com/Psiphon-Labs">赛风 | Psiphon</a></h3>
+### <a href="https://github.com/Psiphon-Labs">赛风 | Psiphon</a>
 
 <a href="https://torchina.gitlab.io/get/psiphon.html">https://torchina.gitlab.io/get/psiphon.html</a>
 
@@ -90,15 +90,15 @@
 
 <b>Windows</b> —— <a href="https://simplednscrypt.org">Simple DNSCrypt</a>
 
-#### <a href="https://github.com/greatfire">Greatfire</a>
+### <a href="https://github.com/greatfire">Greatfire</a>
 
 <a href="https://torchina.gitlab.io/get/greatfire.html">https://torchina.gitlab.io/get/greatfire.html</a>
 
-#### <a href="https://github.com/HelloZeroNet">ZeroNet</a> —— 需要MEEK代理
+### <a href="https://github.com/HelloZeroNet">ZeroNet</a> —— 需要MEEK代理
 
 <a href="https://torchina.gitlab.io/get/zeronet.html">https://torchina.gitlab.io/get/zeronet.html</a>
 
-#### Tails | 操作系统 —— 目前没有MEEK可用
+### Tails | 操作系统 —— 目前没有MEEK可用
 
 <a href="https://torchina.gitlab.io/get/tails.html">https://torchina.gitlab.io/get/tails.html</a>
 
