@@ -88,7 +88,7 @@
 
 #### <a href="https://github.com/jedisct1/dnscrypt-proxy">dnscrypt-proxy 2</a>
 
-<b>Windows</b> —— <a href="https://simplednscrypt.org">Simple DNSCrypt</a>
+Windows —— <a href="https://simplednscrypt.org">Simple DNSCrypt</a>
 
 #### <a href="https://github.com/greatfire">Greatfire</a>
 
