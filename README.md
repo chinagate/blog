@@ -71,7 +71,7 @@
 
 ## VPS设置和VPN服务
 
-#### <a href="https://github.com/Bill0412/bandwagonhost-tutorial">bandwagonhost教程 | vps设置</a> | <a href="https://invidio.us/watch?v=cfh4BFbTDkU">手把手教你在搬瓦工VPS上搭建Shadowsocks服务实现科学上网</a>
+#### <a href="https://github.com/Bill0412/bandwagonhost-tutorial">bandwagonhost教程 | vps设置</a> | <a href="https://invidio.us/watch?v=cfh4BFbTDkU">手把手教你在搬瓦工VPS上搭建Shadowsocks服务实现科学上网</a> &middot; <a href="https://raw.githubusercontent.com/mjstest/orgb2/d539aa9f6d403d80ee221da1144ebc00/手把手教你在搬瓦工VPS上搭建Shadowsocks服务实现科学上网-cfh4BFbTDkU.mp4">下载视频</a>
 
 <a href="https://invidio.us/search?q=bandwagonhost">https://invidio.us/search?q=bandwagonhost</a>
 
