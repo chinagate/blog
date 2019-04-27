@@ -81,8 +81,8 @@
 
 <a href="https://github.com/StreisandEffect/streisand/blob/master/README-chs.md">README-chs.md | 简体中文</a>
 
-<p align="right"><b>高质量的VPN服务</b> | 防火墙
-<p align="right"><i><a href="https://www.expressvpn.com/">ExpressVPN</a></i> &middot; <i><a href="https://vpnac.net/">VPN.AC</a></i></p>
+<p align="right"><b>高质量的VPN服务</b>
+<p align="right"><i><a href="https://www.expressvpn.com/">ExpressVPN  | 防火墙</a></i> &middot; <i><a href="https://vpnac.org/">VPN.AC</a></i></p>
 
 ## 更多资源
 
