@@ -84,7 +84,11 @@
 
 ## 更多资源
 
-#### <a href="https://www.wireguard.com">WireGuard</a>
+#### <a href="https://github.com/WireGuard/WireGuard">WireGuard</a>
+
+<a href="https://git.zx2c4.com"Official repository></a>
+
+<a href="https://www.wireguard.com">www.wireguard.com</a>
 
 #### <a href="https://github.com/jedisct1/dnscrypt-proxy">dnscrypt-proxy 2</a>
 
