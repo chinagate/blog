@@ -69,6 +69,8 @@
 
 <a href="https://torchina.gitlab.io/get/psiphon.html">https://torchina.gitlab.io/get/psiphon.html</a>
 
+## VPS/VPN Setup
+
 <b><a href="https://github.com/Bill0412/bandwagonhost-tutorial">bandwagonhost教程 | vps设置</a></b>
 
 <a href="https://www.bandwagonhost.net">https://www.bandwagonhost.net</a>
