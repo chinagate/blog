@@ -61,11 +61,11 @@
 
 ## 其他审查规避软件
 
-#### <a href="https://github.com/shadowsocks">影梭 | SHADOWSOCKS</a>
+#### <a href="https://github.com/shadowsocks">影梭 | shadowsocks</a>
 
 <a href="https://torchina.gitlab.io/get/shadowsocks.html">https://torchina.gitlab.io/get/shadowsocks.html</a>
 
-#### <a href="https://github.com/Psiphon-Labs">赛风 | PSIPHON</a>
+#### <a href="https://github.com/Psiphon-Labs">赛风 | Psiphon</a>
 
 <a href="https://torchina.gitlab.io/get/psiphon.html">https://torchina.gitlab.io/get/psiphon.html</a>
 
