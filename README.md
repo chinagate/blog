@@ -59,7 +59,7 @@
 <br>
 ![alt text](https://raw.githubusercontent.com/mjstest/orgb1/59dcbecb86fed3242d2042a191fb529e/config3.png)
 
-## 其他规避软件
+## 其他审查规避软件
 
 <h3><a href="https://github.com/shadowsocks">影梭 | Shadowsocks</a></h3>
 
