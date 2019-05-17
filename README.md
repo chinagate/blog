@@ -19,7 +19,7 @@
 
 ### Windows
 
-<a href="https://bitbucket.org/chinagate/files/downloads/torbrowser-install-win64-8.0.9_zh-CN.exe">Tor Browser 8.0.9</a> &middot; 64位 &middot; <a href="https://bitbucket.org/chinagate/files/downloads/torbrowser-install-8.0.9_zh-CN.exe">32位</a> <br>D7EAC1B3F30DB2D38AA53AB98E95298F77E430AD4C4A1E52A12FB0CF72ABF020</br>
+<a href="https://bitbucket.org/chinagate/files/downloads/torbrowser-install-win64-8.0.9_zh-CN.exe">Tor浏览器 8.0.9</a> &middot; 64位 &middot; <a href="https://bitbucket.org/chinagate/files/downloads/torbrowser-install-8.0.9_zh-CN.exe">32位</a> <br>D7EAC1B3F30DB2D38AA53AB98E95298F77E430AD4C4A1E52A12FB0CF72ABF020</br>
 
 ### 专家束
 
