@@ -19,7 +19,7 @@
 
 ### Windows
 
-<a href="https://bitbucket.org/chinagate/files/downloads/torbrowser-install-win64-8.0.9_zh-CN.exe">Tor浏览器64位</a> &middot; (<a href="https://raw.githubusercontent.com/mjstest/orgb2/90bfc3fa2a6def3f5f0c3e6ce2142969/torbrowser-install-win64-8.0.9_zh-CN.exe.asc">sig</a>) | <a href="https://bitbucket.org/chinagate/files/downloads/torbrowser-install-8.0.9_zh-CN.exe">32位</a> &middot; (<a href="https://raw.githubusercontent.com/mjstest/orgb2/918de202bedc2e41d590da8e1824a5ff/torbrowser-install-8.0.9_zh-CN.exe.asc">sig</a>)</a><br>D7EAC1B3F30DB2D38AA53AB98E95298F77E430AD4C4A1E52A12FB0CF72ABF020</br>
+<a href="https://bitbucket.org/chinagate/files/downloads/torbrowser-install-win64-8.0.9_zh-CN.exe">Tor浏览器64位</a> &middot; (<a href="https://raw.githubusercontent.com/mjstest/orgb2/90bfc3fa2a6def3f5f0c3e6ce2142969/torbrowser-install-win64-8.0.9_zh-CN.exe.asc">sig</a>) | <a href="https://bitbucket.org/chinagate/files/downloads/torbrowser-install-8.0.9_zh-CN.exe">32位</a> &middot; (<a href="https://raw.githubusercontent.com/mjstest/orgb2/918de202bedc2e41d590da8e1824a5ff/torbrowser-install-8.0.9_zh-CN.exe.asc">sig</a>)</a><br>1d71bd4c2f93a1a7d81b57608c4f750bbcd4a48ee04a77be13ef372d543e4d34</br>
 
 <a href="https://raw.githubusercontent.com/mjstest/orgb1/e763ff0dc89b5515908bc853b2354591/tor-win64-0.3.5.8.zip">专家束64位</a> &middot; <a href="https://raw.githubusercontent.com/mjstest/orgb1/3bd06cdf3e8af00a7eb5ca9f63cbccb7/tor-win32-0.3.5.8.zip">32位</a><br>2505DDF72C5C601ECA5117F5A77B3A2F27A652EEB77991B795F927D7BB1A654C</br>
 
