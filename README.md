@@ -29,7 +29,7 @@
 
 ### Mac OS X
 
-<a href="https://raw.githubusercontent.com/mjstest/orgb1/3466159e8d348b5301c747f0453fdd04/TorBrowser-8.0.8-osx64_zh-CN.dmg">TorBrowser-8.0.8-osx64_zh-CN.dmg</a> &middot; (64位)<br>33E469F2CBBA823B58BD320CAA8DC806CD9A867B1BAFFF46FA8E4B01E2B9F657</br>
+<a href="https://bitbucket.org/chinagate/tor/downloads/TorBrowser-8.5-osx64_zh-CN.dmg">Tor浏览器64位</a> &middot; (<a href="https://raw.githubusercontent.com/mjstest/orgb2/b8fa8fb607e26ec180fd4fd116fb9d0f/TorBrowser-8.5-osx64_zh-CN.dmg.asc">sig</a>) <br>f3d5ca2db08db3c612713b3416edf684b1681f3ad23df1ec79d9a662309edfa9</br>
 
 ### Android
 
