@@ -33,9 +33,7 @@
 
 ### Android
 
-<a href="https://bitbucket.org/chinagate/tor/downloads/tor-browser-8.5-android-armv7-multi.apk">tor-browser-8.5-android-armv7-multi.apk</a> &middot; (<a href="https://raw.githubusercontent.com/mjstest/orgb2/fdb86ba6fc8005f564ffe09c68406002/tor-browser-8.5-android-armv7-multi.apk.asc">sig</a>)<br>edf380af8ea7fb0854ecabaa8e8deaa9f9796bc6ba66ce6d1b386b0f86dfe8e3</br>
-
-<a href="https://bitbucket.org/chinagate/tor/downloads/tor-browser-8.5-android-x86-multi.apk">tor-browser-8.5-android-x86-multi.apk</a> &middot; (<a href="https://raw.githubusercontent.com/mjstest/orgb2/10a897567b3a5adb2d8215778fb6f1dd/tor-browser-8.5-android-x86-multi.apk.asc">sig</a>)<br>c577b6ceac73235270a3efa80d905cec3c47a6dbc19954ef4b569160d29f8085</br>
+<a href="https://bitbucket.org/chinagate/tor/downloads/tor-browser-8.5-android-armv7-multi.apk">Tor浏览器ARMV7</a> &middot; (<a href="https://raw.githubusercontent.com/mjstest/orgb2/fdb86ba6fc8005f564ffe09c68406002/tor-browser-8.5-android-armv7-multi.apk.asc">sig</a>) | <a href="https://bitbucket.org/chinagate/tor/downloads/tor-browser-8.5-android-x86-multi.apk">X86</a> &middot; (<a href="https://raw.githubusercontent.com/mjstest/orgb2/10a897567b3a5adb2d8215778fb6f1dd/tor-browser-8.5-android-x86-multi.apk.asc">sig</a>)<br>edf380af8ea7fb0854ecabaa8e8deaa9f9796bc6ba66ce6d1b386b0f86dfe8e3</br>
 
 ### Onion浏览器 | iOS
 
