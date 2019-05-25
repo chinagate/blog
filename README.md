@@ -25,7 +25,7 @@
 
 ### Linux
 
-<a href="https://bitbucket.org/chinagate/tor/downloads/tor-browser-linux64-8.5_zh-CN.tar.xz">tor-browser-linux64-8.5_zh-CN.tar.xz</a> &middot; (<a href="https://raw.githubusercontent.com/mjstest/orgb2/00f90a12ff188990f43e4f4b18386518/tor-browser-linux64-8.5_zh-CN.tar.xz.asc">sig</a>) | <a href="https://bitbucket.org/chinagate/tor/downloads/tor-browser-linux32-8.5_zh-CN.tar.xz">32位</a> &middot; (<a href="https://raw.githubusercontent.com/mjstest/orgb2/1dbf5d46ff947fe1bb88b9a6633483a0/tor-browser-linux32-8.5_zh-CN.tar.xz.asc">sig</a>) <br>aebc74b309c8b506ec2b378f023747e67c3259f6551f9fec9ee350c52eb8ab37</br>
+<a href="https://bitbucket.org/chinagate/tor/downloads/tor-browser-linux64-8.5_zh-CN.tar.xz">Tor浏览器64位</a> &middot; (<a href="https://raw.githubusercontent.com/mjstest/orgb2/00f90a12ff188990f43e4f4b18386518/tor-browser-linux64-8.5_zh-CN.tar.xz.asc">sig</a>) | <a href="https://bitbucket.org/chinagate/tor/downloads/tor-browser-linux32-8.5_zh-CN.tar.xz">32位</a> &middot; (<a href="https://raw.githubusercontent.com/mjstest/orgb2/1dbf5d46ff947fe1bb88b9a6633483a0/tor-browser-linux32-8.5_zh-CN.tar.xz.asc">sig</a>) <br>aebc74b309c8b506ec2b378f023747e67c3259f6551f9fec9ee350c52eb8ab37</br>
 
 ### Mac OS X
 
