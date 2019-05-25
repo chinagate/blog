@@ -21,7 +21,7 @@
 
 <a href="https://bitbucket.org/chinagate/tor/downloads/torbrowser-install-win64-8.5_zh-CN.exe">Tor浏览器64位</a> &middot; (<a href="https://raw.githubusercontent.com/mjstest/orgb2/d3bab7d2e1a79bb8d220cdcb40d40082/torbrowser-install-win64-8.5_zh-CN.exe.asc">sig</a>) | <a href="https://bitbucket.org/chinagate/tor/downloads/torbrowser-install-8.5_zh-CN.exe">32位</a> &middot; (<a href="https://raw.githubusercontent.com/mjstest/orgb2/a0343bff2a16482bd5d83a9c4492f8aa/torbrowser-install-8.5_zh-CN.exe.asc">sig</a>)</a><br>1d71bd4c2f93a1a7d81b57608c4f750bbcd4a48ee04a77be13ef372d543e4d34</br>
 
-<a href="https://raw.githubusercontent.com/mjstest/orgb1/e763ff0dc89b5515908bc853b2354591/tor-win64-0.3.5.8.zip">专家束64位</a> &middot; <a href="https://raw.githubusercontent.com/mjstest/orgb1/3bd06cdf3e8af00a7eb5ca9f63cbccb7/tor-win32-0.3.5.8.zip">32位</a><br>2505DDF72C5C601ECA5117F5A77B3A2F27A652EEB77991B795F927D7BB1A654C</br>
+<a href="https://bitbucket.org/chinagate/tor/downloads/tor-win64-0.3.5.8.zip">专家束64位</a> &middot; (<a href="">sig</a>) | <a href="https://bitbucket.org/chinagate/tor/downloads/tor-win32-0.3.5.8.zip">32位</a> &middot; (<a href="">sig</a>)<br>f7f235fa24fb4b8dade69fd6ad6e09c53770be06af630ffc0ce9cc321f19c887</br>
 
 ### Linux
 
