@@ -104,9 +104,7 @@ Windows —— <a href="https://simplednscrypt.org">Simple DNSCrypt</a>
 [![Gitter](https://badges.gitter.im/chinapolitics/community.svg)](https://gitter.im/resistdpi/community) | 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
-### Human Rights
-
-64tianwang.com
+<p align="right">64tianwang.com</p>
 
 ## 备用
 
