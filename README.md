@@ -17,7 +17,7 @@
 
 ## Tor浏览器版本8.5下载 | <a href="https://raw.githubusercontent.com/mjstest/orgb2/ce120a3d9d920acf4a155bc51fe7babd/sha256sums-signed-build.txt">SHA256校验和</a> | <a href="https://bitbucket.org/chinagate/tor/downloads/tor-0.4.0.5.tar.gz">源代码</a> &middot; (<a href="https://raw.githubusercontent.com/mjstest/orgb2/0f581940acd0d947ca7d0551e13c8057/tor-0.4.0.5.tar.gz.asc">sig</a>)
 
-### LATEST
+### 20th SEPTEMBER LATEST
 
 https://bitbucket.org/chinagate/latest/downloads/
 
