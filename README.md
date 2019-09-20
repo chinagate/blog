@@ -17,6 +17,10 @@
 
 ## Tor浏览器版本8.5下载 | <a href="https://raw.githubusercontent.com/mjstest/orgb2/ce120a3d9d920acf4a155bc51fe7babd/sha256sums-signed-build.txt">SHA256校验和</a> | <a href="https://bitbucket.org/chinagate/tor/downloads/tor-0.4.0.5.tar.gz">源代码</a> &middot; (<a href="https://raw.githubusercontent.com/mjstest/orgb2/0f581940acd0d947ca7d0551e13c8057/tor-0.4.0.5.tar.gz.asc">sig</a>)
 
+### LATEST
+
+https://bitbucket.org/chinagate/latest/downloads/
+
 ### Windows
 
 <a href="https://bitbucket.org/chinagate/tor/downloads/torbrowser-install-win64-8.5_zh-CN.exe">Tor浏览器64位</a> &middot; (<a href="https://raw.githubusercontent.com/mjstest/orgb2/d3bab7d2e1a79bb8d220cdcb40d40082/torbrowser-install-win64-8.5_zh-CN.exe.asc">sig</a>) | <a href="https://bitbucket.org/chinagate/tor/downloads/torbrowser-install-8.5_zh-CN.exe">32位</a> &middot; (<a href="https://raw.githubusercontent.com/mjstest/orgb2/a0343bff2a16482bd5d83a9c4492f8aa/torbrowser-install-8.5_zh-CN.exe.asc">sig</a>)</a><br>1d71bd4c2f93a1a7d81b57608c4f750bbcd4a48ee04a77be13ef372d543e4d34</br>
